@@ -1,0 +1,129 @@
+{
+  "brand": "Louise Innfinity Homestay",
+  "tagline": "Your island accommodation in Limasawa",
+  "location": "Brgy. San Bernardo, Limasawa, Southern Leyte, Philippines",
+  "intro": "Slow down, breathe in the sea air, and feel at home by the coast. A welcoming island stay for families, friends, and groups.",
+  "contact": {
+    "email": "",
+    "phone": "",
+    "facebookName": "Louise 8 Place",
+    "facebookUrl": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Louise+Innfinity+Homestay+Brgy+San+Bernardo+Limasawa+Southern+Leyte"
+  },
+  "rooms": [
+    {
+      "id": "room-01",
+      "name": "Room 01",
+      "capacity": null,
+      "rate": null,
+      "description": "Add this room's details and sleeping arrangement.",
+      "image": ""
+    },
+    {
+      "id": "room-02",
+      "name": "Room 02",
+      "capacity": null,
+      "rate": null,
+      "description": "Add this room's details and sleeping arrangement.",
+      "image": ""
+    },
+    {
+      "id": "room-03",
+      "name": "Room 03",
+      "capacity": null,
+      "rate": null,
+      "description": "Add this room's details and sleeping arrangement.",
+      "image": ""
+    },
+    {
+      "id": "room-04",
+      "name": "Room 04",
+      "capacity": null,
+      "rate": null,
+      "description": "Add this room's details and sleeping arrangement.",
+      "image": ""
+    },
+    {
+      "id": "room-05",
+      "name": "Room 05",
+      "capacity": null,
+      "rate": null,
+      "description": "Add this room's details and sleeping arrangement.",
+      "image": ""
+    },
+    {
+      "id": "room-06",
+      "name": "Room 06",
+      "capacity": null,
+      "rate": null,
+      "description": "Add this room's details and sleeping arrangement.",
+      "image": ""
+    },
+    {
+      "id": "room-07",
+      "name": "Room 07",
+      "capacity": null,
+      "rate": null,
+      "description": "Add this room's details and sleeping arrangement.",
+      "image": ""
+    },
+    {
+      "id": "room-08",
+      "name": "Room 08",
+      "capacity": null,
+      "rate": null,
+      "description": "Add this room's details and sleeping arrangement.",
+      "image": ""
+    },
+    {
+      "id": "room-09",
+      "name": "Room 09",
+      "capacity": null,
+      "rate": null,
+      "description": "Add this room's details and sleeping arrangement.",
+      "image": ""
+    }
+  ],
+  "amenities": [
+    {
+      "icon": "⌁",
+      "title": "Unlimited Wi-Fi",
+      "detail": "Stay connected throughout your visit."
+    },
+    {
+      "icon": "⌂",
+      "title": "Beachfront location",
+      "detail": "Enjoy the coast just steps away."
+    },
+    {
+      "icon": "♨",
+      "title": "Fully equipped kitchen",
+      "detail": "Prepare meals during your stay."
+    },
+    {
+      "icon": "❄",
+      "title": "Air-conditioned rooms",
+      "detail": "Rest comfortably after a day outdoors."
+    },
+    {
+      "icon": "♧",
+      "title": "Comfort rooms",
+      "detail": "Convenient washroom facilities."
+    },
+    {
+      "icon": "▱",
+      "title": "Spacious living room",
+      "detail": "A shared space to relax together."
+    },
+    {
+      "icon": "✿",
+      "title": "Garden",
+      "detail": "A green space to unwind."
+    },
+    {
+      "icon": "▤",
+      "title": "Nine room options",
+      "detail": "Different room types and capacities."
+    }
+  ]
+}

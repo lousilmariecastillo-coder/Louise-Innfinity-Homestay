@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 620">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#d7f0ec"/><stop offset="1" stop-color="#f5e8cf"/></linearGradient></defs>
+<rect width="900" height="620" fill="url(#g)"/>
+<circle cx="690" cy="130" r="64" fill="#fff7e6" opacity=".8"/>
+<path d="M0 430 Q190 350 360 430 T720 420 T1000 420 V620 H0Z" fill="#b8ddd7"/>
+<path d="M0 485 Q180 420 360 485 T720 475 T1000 475 V620 H0Z" fill="#78b8b1" opacity=".55"/>
+<g fill="none" stroke="#2d7774" stroke-width="8" stroke-linecap="round" opacity=".72"><path d="M450 250 v140 M365 300 q85 -95 170 0 M395 350 q55 -50 110 0"/><path d="M310 390 h280"/></g>
+<text x="450" y="545" text-anchor="middle" fill="#286b69" font-family="Arial,sans-serif" font-size="30" letter-spacing="4">ADD ROOM PHOTO</text>
+</svg>
